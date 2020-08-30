@@ -1,0 +1,10 @@
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\bin\Debug\Vocabulary.exe.config
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\bin\Debug\Vocabulary.exe
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\bin\Debug\Vocabulary.pdb
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\bin\Debug\ClassLibrary1.dll
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\bin\Debug\ClassLibrary1.pdb
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\obj\Debug\Vocabulary.csprojAssemblyReference.cache
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\obj\Debug\Vocabulary.csproj.CoreCompileInputs.cache
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\obj\Debug\Vocabulary.csproj.CopyComplete
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\obj\Debug\Vocabulary.exe
+c:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\Vocabulary\obj\Debug\Vocabulary.pdb

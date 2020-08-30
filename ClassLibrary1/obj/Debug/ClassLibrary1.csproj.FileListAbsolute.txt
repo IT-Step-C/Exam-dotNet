@@ -1,0 +1,6 @@
+C:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Cloud\Google Drive\Pavlo\07-dotNet+C#\Exam\Dictionaries\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
